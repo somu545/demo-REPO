@@ -5,6 +5,10 @@ public class noOfDigits {
 
         int ans = (int)(Math.log(num) / Math.log(base)) +1 ;
         System.out.println(ans);
+        System.out.println("me");
+        /*
+         * shjhsgfysgbsyfb
+         */
 
     }
 }
